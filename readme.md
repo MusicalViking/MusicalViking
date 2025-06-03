@@ -1,16 +1,15 @@
 ﻿# 👋 Arthur Belanger
 
-**Lead Developer** @ [Maine Bread of Life](https://mainebreadoflife.org)  
-**TA** @ [MIT’s Brave Behind Bars](https://bravebehindbars.org)  
-**CS Student** @ University of Maine at Augusta  
+**Lead Developer** @ [Maine Bread of Life](https://mainebreadoflife.org)
+**TA** @ [MIT’s Brave Behind Bars](https://bravebehindbars.org)
+**CS Student** @ University of Maine at Augusta
 **Full-stack developer who locked in, went rogue, and never looked back.**
 
 ---
 
-## 🪖 Code Warrior. Combat Veteran. Builder of Second Chances.
+## 🪖 Code Warrior. Veteran. Builder of Second Chances.
 
-I served with the 5th Special Forces Group from 1999–2003 — boots on the ground in Kosovo, Afghanistan, and Iraq.  
-Earned tabs from SAPPER School, Pathfinder, Ranger Leadership, and survived the SERE Level C crucible.  
+I served with the 5th Special Forces Group from 1999–2003 — boots on the ground.
 Came home broken, lost a friend, nearly lost myself. Then I found purpose in code.
 
 **No handouts. No shortcuts. One mission: Build tools that matter.**
@@ -19,55 +18,53 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ## 🔥 What I Do Now
 
-- 💻 Lead Dev @ [Bread of Life Ministries](https://mainebreadoflife.org)  
-  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me  
-- 🧠 TA @ MIT’s Brave Behind Bars + Code Your Dreams  
-  → Teaching HTML, CSS, Python, and Flask inside prison walls  
-- 🏗 Redesigning [Augusta Downtown Alliance](https://augustadowntownalliance.org)  
-  → From template junk to handcrafted digital presence  
+- 💻 Lead Dev @ [Maine Bread of Life](https://mainebreadoflife.org)
+  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me
+- 🧠 TA @ MIT’s Brave Behind Bars + Code Your Dreams
+  → Teaching HTML, CSS, Python, and Flask inside prison walls
+- 🏗 Redesigning [Augusta Downtown Alliance](https://augustadowntownalliance.org)
+  → From template junk to handcrafted digital presence
 
 ---
 
 ## 🧠 From the Inside Out
 
-> In 2023, after 22-years into a prison sentence with zero tech background.  
+> In 2023, after 20-years into a prison sentence with zero tech background.
 > No laptop experience. No GitHub. No roadmap. Just fire.
 
-- Taught myself full-stack dev in isolation — Flask, JS, Jinja, CLI scripting  
-- Earned certifications from **Google**, **UC Davis**, **University of Michigan**  
-- Went from student to TA — teaching others to build the same way I did  
-- Now I build software that runs offline, under pressure, and without excuses  
+- Taught myself full-stack dev in isolation — Flask, JS, Jinja, CLI scripting
+- Earned certifications from **Google**, **UC Davis**, **University of Michigan**
+- Went from student to TA — teaching others to build the same way I did
+- Now I build software that runs offline, under pressure, and without excuses
 
 ---
 
 ## ⚔️ My Ethos
 
-- **Code like your life depends on it.**  
-- **No fluff. No gimmicks. Just raw function and impact.**  
-- **If it doesn’t run offline, it’s not ready for the real world.**  
+- **Code like your life depends on it.**
+- **No fluff. No gimmicks. Just raw function and impact.**
+- **If it doesn’t run offline, it’s not ready for the real world.**
 - **Accessibility > Aesthetics. Clarity > Cleverness.**
 
 ---
 
 ## 🛠 Dev Arsenal
 
-- **Languages**: Python, JavaScript, HTML5, CSS3, Bash, Batch  
-- **Frameworks**: Flask, Jinja, Bootstrap  
-- **Tools**: Visual Studio (custom extensions), BrowserSync, PyInstaller  
-- **Environments**: Locked down, air-gapped, firewalled — *I get it working anyway*  
+- **Languages**: Python, JavaScript, HTML5, CSS3, Bash, Batch
+- **Frameworks**: Flask, Jinja, Bootstrap
+- **Tools**: Visual Studio (custom extensions), BrowserSync, PyInstaller
+- **Environments**: Locked down, air-gapped, firewalled — *I get it working anyway*
 
 ---
 
-## 💼 Featured Builds
+# 💼 Featured Builds
 
-### 🥖 [Maine Bread of Life](https://mainebreadoflife.org)
+## 🥖 [Maine Bread of Life](https://mainebreadoflife.org)
 
-> **Node.js-powered nonprofit site. Fully custom. Built for impact.**
+> **Node.js/Bootstrap-powered nonprofit site. Fully custom. Built for impact.**
 
-![Bread of Life Screenshot](./Screenshot%202025-06-02%20181050.png)
-
-- 🔧 Node.js backend + Bootstrap/React/Vanilla.js Frontend  
-- 🦾 JSON-LD structured data for rich SEO  
+- 🔧 Node.js backend + Bootstrap/React/Vanilla.js Frontend
+- 🦾 JSON-LD structured data for rich SEO
 - 🧭 WCAG-accessible, zero-bloat, mobile-first
 
 ---
@@ -76,8 +73,8 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 > Rebuilding local pride with real code.
 
-- Flask + JS from the ground up  
-- ADA compliant, responsive, blazing fast  
+- Flask + JS from the ground up
+- ADA compliant, responsive, blazing fast
 - Ditching the WordPress drag-and-drop bloat for something **authentic** and
   worth the time to look at!
 
@@ -85,19 +82,19 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ## 🧑‍🏫 Teaching & Outreach
 
-- **TA @ MIT’s Brave Behind Bars** — Flask & HTML inside federal prisons  
-- **TA @ Code Your Dreams** — mentoring new devs starting at rock bottom...literally.  
+- **TA @ MIT’s Brave Behind Bars** — Flask & HTML inside federal prisons
+- **TA @ Code Your Dreams** — mentoring new devs starting at rock bottom...literally.
 
 > *Because real dev skills change lives — even behind bars.*
 
 ---
 
-## 📫 Authored by me
+# 📫 Authored by me
 
-- 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)    
-- 📸 Screenshot Credit: [Bread of Life Homepage](https://mainebreadoflife.org)
+- 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)
+- 📸 Screenshot Credit: ![Bread of Life Homepage](ArthurBelanger207/images/maineBreadOfLife.png)
+- [Tour of ART's House - Maine Bread of Life](https://www.youtube.com/watch?v=DNcIMS_XcEY&t=2s)
 
 ---
 
-> **“Burn the tutorials. Build the thing.”**
-
+> **“Burn the tutorials. Build the thing. De oppresso liber.”**
