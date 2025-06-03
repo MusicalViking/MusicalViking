@@ -92,7 +92,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 # 📫 Authored by me
 
 - 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)
-- 📸 Screenshot Credit: ![Bread of Life Homepage](ArthurBelanger207/images/maineBreadOfLife.png)
+- 📸 Screenshot Credit: ![Bread of Life Homepage](images/maineBreadOfLife.png)
 - [Tour of ART's House - Maine Bread of Life](https://www.youtube.com/watch?v=DNcIMS_XcEY&t=2s)
 
 ---
