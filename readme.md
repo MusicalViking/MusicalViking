@@ -90,7 +90,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ---
 
-# 📫 Authored by me: Arthur D. Belanger Jr.
+# 📫 Authored by me
 
 - 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)
 - 📸 Screenshot Credit: ![Bread of Life Homepage](images/maineBreadOfLife.png)
