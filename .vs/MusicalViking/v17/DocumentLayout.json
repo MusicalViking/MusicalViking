@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arthur.belanger\\source\\ArthurBelanger207\\",
+  "WorkspaceRootPath": "C:\\Users\\arthur.belanger\\source\\MusicalViking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\ArthurBelanger207\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthur.belanger\\source\\MusicalViking\\readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "readme.md",
-              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\ArthurBelanger207\\readme.md",
+              "DocumentMoniker": "C:\\Users\\arthur.belanger\\source\\MusicalViking\\readme.md",
               "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "C:\\Users\\arthur.belanger\\source\\ArthurBelanger207\\readme.md",
+              "ToolTip": "C:\\Users\\arthur.belanger\\source\\MusicalViking\\readme.md",
               "RelativeToolTip": "readme.md",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF8AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-03T01:14:33.172Z",
+              "WhenOpened": "2025-06-04T03:06:15.583Z",
               "EditorCaption": ""
             }
           ]

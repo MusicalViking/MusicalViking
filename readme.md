@@ -1,4 +1,4 @@
-﻿# 👋 Arthur Belanger
+﻿# 👋 MusicalViking
 
 **Lead Developer** @ [Maine Bread of Life](https://mainebreadoflife.org)
 **TA** @ [MIT’s Brave Behind Bars](https://bravebehindbars.org)
@@ -9,7 +9,7 @@
 
 ## 🪖 Code Warrior. Veteran. Builder of Second Chances.
 
-I served with the 5th Special Forces Group from 1999–2003 — boots on the ground.
+I served with the 5th Special Forces Group from 2001–2003(Army 1999-2003) — boots on the ground.
 Came home broken, lost a friend, nearly lost myself. Then I found purpose in code.
 
 **No handouts. No shortcuts. One mission: Build tools that matter.**
@@ -19,7 +19,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 ## 🔥 What I Do Now
 
 - 💻 Lead Dev @ [Maine Bread of Life](https://mainebreadoflife.org)
-  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me
+  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me named after me.
 - 🧠 TA @ MIT’s Brave Behind Bars + Code Your Dreams
   → Teaching HTML, CSS, Python, and Flask inside prison walls
 - 🏗 Redesigning [Augusta Downtown Alliance](https://augustadowntownalliance.org)
@@ -32,8 +32,9 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 > In 2023, after 20-years into a prison sentence with zero tech background.
 > No laptop experience. No GitHub. No roadmap. Just fire.
 
+- Everything started for me from joining a basic web design course through Brave Behind Bars while in prison.
 - Taught myself full-stack dev in isolation — Flask, JS, Jinja, CLI scripting
-- Earned certifications from **Google**, **UC Davis**, **University of Michigan**
+- Earned certifications from **Google**, **UC Davis**, **University of Michigan** and every online course I could find!
 - Went from student to TA — teaching others to build the same way I did
 - Now I build software that runs offline, under pressure, and without excuses
 
@@ -89,7 +90,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 
 ---
 
-# 📫 Authored by me
+# 📫 Authored by me: Arthur D. Belanger Jr.
 
 - 🌐 [mainebreadoflife.org](https://mainebreadoflife.org)
 - 📸 Screenshot Credit: ![Bread of Life Homepage](images/maineBreadOfLife.png)
