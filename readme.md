@@ -9,8 +9,9 @@
 
 ## 🪖 Code Warrior. Veteran. Builder of Second Chances.
 
-I served with the 5th Special Forces Group from 2001–2003(Army 1999-2003) — boots on the ground.
-Came home broken, lost a friend, nearly lost myself. Then I found purpose in code.
+I served with the 5th SFG from 2001–2003.
+I Came home broken, lost a friend, nearly lost myself.
+Then I found purpose in code.
 
 **No handouts. No shortcuts. One mission: Build tools that matter.**
 
@@ -19,7 +20,7 @@ Came home broken, lost a friend, nearly lost myself. Then I found purpose in cod
 ## 🔥 What I Do Now
 
 - 💻 Lead Dev @ [Maine Bread of Life](https://mainebreadoflife.org)
-  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me named after me.
+  → Custom tech for shelters, soup kitchens, and **ART’s House** — a recovery home for vets like me, named after me.
 - 🧠 TA @ MIT’s Brave Behind Bars + Code Your Dreams
   → Teaching HTML, CSS, Python, and Flask inside prison walls
 - 🏗 Redesigning [Augusta Downtown Alliance](https://augustadowntownalliance.org)
