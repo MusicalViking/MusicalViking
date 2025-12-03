@@ -15,8 +15,8 @@
 ## 🛠 Dev Arsenal
 
 - **Languages**: Python, JavaScript, HTML5, CSS3, Bash, Batch
-- **Frameworks**: Flask, Jinja, Bootstrap
-- **Tools**: Visual Studio (custom extensions), BrowserSync, PyInstaller
+- **Frameworks**: Flask, Jinja, Django, Bootstrap, Vite
+- **Tools**: Visual Studio Code (custom extensions), BrowserSync, NodeJS
 - **Environments**: Locked down, air-gapped, firewalled — *I get it working anyway*
 
 ---
